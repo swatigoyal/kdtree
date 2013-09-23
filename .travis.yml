@@ -8,4 +8,4 @@ rvm:
 #  - ruby-head
   - ree
   notifications:
-  email: false
+    email: false
